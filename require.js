@@ -1,1 +1,1 @@
-console.log('require js')
+console.log('require')
